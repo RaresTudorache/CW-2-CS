@@ -1,4 +1,6 @@
-# CW-2-CS
+# Cache Simulator
+
+## Overview
 
 The aim of this assignment is to write a parameterized simulator that models a
 cache. The simulator, written in C, will read a memory address trace and provide
